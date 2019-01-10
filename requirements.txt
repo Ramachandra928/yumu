@@ -1,0 +1,5 @@
+Steps to do automation testing
+1.Git and github knowledge
+2.Pycharm IDE
+3.Subprocess
+4.Jetkins
